@@ -1,6 +1,6 @@
 # Python-MySQL-CRUD-Operations
 
-Introduction
+Introduction:      
 This project provides a basic implementation of a Python application for performing CRUD operations on a MySQL database. 
 It serves as a starting point for developers looking to build more advanced applications using Python and MySQL.
 
