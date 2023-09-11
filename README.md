@@ -7,7 +7,7 @@ It serves as a starting point for developers looking to build more advanced appl
 Key features:
 
 Create New Database.
-Create New Table in Database.       
+Create New Table in Database.                 
 Create records in the database.                      
 Read records from the database.          
 Update records in the database.                  
